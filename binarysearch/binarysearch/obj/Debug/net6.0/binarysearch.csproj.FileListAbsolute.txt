@@ -1,0 +1,15 @@
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\bin\Debug\net6.0\binarysearch.exe
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\bin\Debug\net6.0\binarysearch.deps.json
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\bin\Debug\net6.0\binarysearch.runtimeconfig.json
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\bin\Debug\net6.0\binarysearch.dll
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\bin\Debug\net6.0\binarysearch.pdb
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.csproj.AssemblyReference.cache
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.AssemblyInfoInputs.cache
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.AssemblyInfo.cs
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.csproj.CoreCompileInputs.cache
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.dll
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\refint\binarysearch.dll
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.pdb
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\binarysearch.genruntimeconfig.cache
+C:\Users\t.diacci\Desktop\GitHub\binarysearch\binarysearch\binarysearch\obj\Debug\net6.0\ref\binarysearch.dll
