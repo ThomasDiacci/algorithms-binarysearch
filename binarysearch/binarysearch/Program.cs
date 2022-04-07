@@ -61,20 +61,22 @@ static int BinarySearch(List<int> list, int itemToGuess, out int counter)
     while (low <= high)
     {
         counter++;
-        int mid = (low + high) / 2;
+
+        //in caso di numero dispari, allora viene arrotondato per difetto
+        int mid = (low + high) / 2;//[1,2,3,4],5,[6,7,8,9]
         int guess = list[mid];
 
         if (guess == itemToGuess)
         {
-            return mid;
+            return mid;//[5]
         }
         else if (guess > itemToGuess)
         {
-            high = mid - 1;
+            high = mid - 1;//[1,2,3,4]
         }
         else
         {
-            low = mid + 1;
+            low = mid + 1;//[6,7,8,9]
         }
     }
 
